@@ -1,16 +1,16 @@
-## Hi there 👋
+<span align="center">
 
-<!--
-**Lorias-Jak/Lorias-Jak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lorias / Jannik
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I like working with...
+![Java Shield](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
+
+&nbsp;
+
+![Lorias-Jak's most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lorias-Jak&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+
+![Lorias-Jak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorias-Jak&show_icons=true&locale=en&count_private=true&theme=vue-dark)
+</span>
+
